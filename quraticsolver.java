@@ -3,7 +3,7 @@ public class quraticsolver {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a = 3;
+		int a = 4;
 		int b = 6;
 		int c = 9;
 		if (b*b - 4*a*c <0)
